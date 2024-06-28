@@ -9,5 +9,7 @@ Features
 2.User Input: The program accepts user input to select answers.
 
 3.Immediate Feedback: At the end of the quiz, the program displays the user's total score and indicates whether they passed or failed.
+
 4.Score Tracking: The program keeps track of the user's score and displays it at the end.
+
 5.Replay Option: Users have the option to retake the quiz if they choose to.
